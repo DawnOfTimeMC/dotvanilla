@@ -1,0 +1,7 @@
+{
+	"parent":"dotbv:block/small_plate",
+	"textures":{
+		"side":"minecraft:block/black_terracotta",
+		"frieze":"minecraft:block/black_terracotta"
+	}
+}

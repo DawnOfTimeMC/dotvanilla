@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"type=bottom": {
+			"model": "dotbv:block/blue_concrete_slab_bottom"
+		},
+		"type=double": {
+			"model": "minecraft:block/blue_concrete"
+		},
+		"type=top": {
+			"model": "dotbv:block/blue_concrete_slab_top"
+		}
+	}
+}

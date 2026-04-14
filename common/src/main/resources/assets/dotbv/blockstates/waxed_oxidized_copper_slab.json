@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "dotbv:block/waxed_oxidized_copper_slab_bottom" },
+        "type=top":    { "model": "dotbv:block/waxed_oxidized_copper_slab_top" },
+        "type=double": { "model": "minecraft:block/oxidized_copper" }
+    }
+}

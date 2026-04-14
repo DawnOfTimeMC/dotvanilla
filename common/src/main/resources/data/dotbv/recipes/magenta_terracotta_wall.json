@@ -1,0 +1,6 @@
+{
+	"type":"minecraft:crafting_shaped",
+	"pattern":["III","III"],
+	"key":{"I":{"item":"minecraft:magenta_terracotta"}},
+	"result":{"item":"dotbv:magenta_terracotta_wall","count":9}
+}

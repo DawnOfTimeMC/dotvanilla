@@ -1,0 +1,7 @@
+{
+	"parent": "dotbv:block/small_plate_outer",
+	"textures": {
+		"top": "minecraft:block/netherite_block",
+		"frieze": "minecraft:block/netherite_block"
+	}
+}

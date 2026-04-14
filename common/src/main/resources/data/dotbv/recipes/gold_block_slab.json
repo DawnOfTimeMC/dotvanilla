@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"III"
+	],
+	"key": {
+		"I": { "item": "minecraft:gold_block" }
+	},
+	"result": {
+		"item": "dotbv:gold_block_slab",
+		"count": 6
+	}
+}

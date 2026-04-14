@@ -1,0 +1,6 @@
+{
+	"type":"minecraft:crafting_shaped",
+	"pattern":["III"],
+	"key":{"I":{"item":"minecraft:yellow_terracotta"}},
+	"result":{"item":"dotbv:yellow_terracotta_slab","count":6}
+}

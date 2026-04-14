@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "dotbv:block/dirt_path_slab_bottom" },
+        "type=top":    { "model": "dotbv:block/dirt_path_slab_top" },
+        "type=double": { "model": "minecraft:block/dirt_path" }
+    }
+}

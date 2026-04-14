@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "dotbv:block/crimson_nylium_slab_bottom" },
+        "type=top":    { "model": "dotbv:block/crimson_nylium_slab_top" },
+        "type=double": { "model": "minecraft:block/crimson_nylium" }
+    }
+}

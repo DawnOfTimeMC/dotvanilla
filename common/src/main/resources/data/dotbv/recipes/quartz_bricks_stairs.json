@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": ["I  ","II ","III"],
+	"key": {
+		"I": { "item": "minecraft:quartz_bricks" }
+	},
+	"result": {
+		"item": "dotbv:quartz_bricks_stairs",
+		"count": 6
+	}
+}

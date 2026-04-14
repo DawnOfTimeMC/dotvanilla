@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"III"
+	],
+	"key": { "I": { "item": "minecraft:ice" } },
+	"result": { "item": "dotbv:ice_slab", "count": 6 }
+}

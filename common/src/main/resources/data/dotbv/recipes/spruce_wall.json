@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"IiI",
+		"IiI"
+	],
+	"key": {
+		"i": {
+			"item": "minecraft:spruce_log"
+		},
+		"I": {
+			"item": "minecraft:spruce_planks"
+		}
+	},
+	"result": {
+		"item": "dotbv:spruce_wall",
+		"count": 9
+	}
+}

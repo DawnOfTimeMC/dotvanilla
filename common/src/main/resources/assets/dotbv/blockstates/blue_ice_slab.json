@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "dotbv:block/blue_ice_slab_bottom" },
+        "type=top":    { "model": "dotbv:block/blue_ice_slab_top" },
+        "type=double": { "model": "minecraft:block/blue_ice" }
+    }
+}

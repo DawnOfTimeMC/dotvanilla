@@ -1,0 +1,7 @@
+{
+	"parent": "dotbv:block/plate_outer",
+	"textures": {
+		"top": "minecraft:block/deepslate_bricks",
+		"frieze": "minecraft:block/deepslate_bricks"
+	}
+}

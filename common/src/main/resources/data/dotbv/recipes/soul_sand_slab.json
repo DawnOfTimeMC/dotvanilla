@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"III"
+	],
+	"key": { "I": { "item": "minecraft:soul_sand" } },
+	"result": { "item": "dotbv:soul_sand_slab", "count": 6 }
+}

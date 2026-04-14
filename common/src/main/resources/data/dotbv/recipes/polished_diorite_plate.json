@@ -1,0 +1,6 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": ["I","I","I"],
+	"key": { "I": { "item": "minecraft:polished_diorite" } },
+	"result": { "item": "dotbv:polished_diorite_plate", "count": 6 }
+}

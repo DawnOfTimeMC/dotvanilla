@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"II"
+	],
+	"key": {
+		"I": {
+			"item": "dotbv:light_blue_concrete_slab"
+		}
+	},
+	"result": {
+		"item": "dotbv:light_blue_concrete_edge",
+		"count": 6
+	}
+}

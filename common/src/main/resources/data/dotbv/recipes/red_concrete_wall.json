@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"III",
+		"III"
+	],
+	"key": {
+		"I": {
+			"item": "minecraft:red_concrete"
+		}
+	},
+	"result": {
+		"item": "dotbv:red_concrete_wall",
+		"count": 9
+	}
+}

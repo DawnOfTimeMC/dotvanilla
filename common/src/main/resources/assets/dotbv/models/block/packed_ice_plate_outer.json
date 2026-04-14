@@ -1,0 +1,7 @@
+{
+    "parent": "dotbv:block/plate_outer",
+    "textures": {
+        "top": "minecraft:block/packed_ice",
+        "frieze": "minecraft:block/packed_ice"
+    }
+}

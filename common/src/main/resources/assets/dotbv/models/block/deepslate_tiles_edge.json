@@ -1,0 +1,7 @@
+{
+	"parent": "dotbv:block/small_plate",
+	"textures": {
+		"side": "minecraft:block/deepslate_tiles",
+		"frieze": "minecraft:block/deepslate_tiles"
+	}
+}

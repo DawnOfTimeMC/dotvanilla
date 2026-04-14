@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"III"
+	],
+	"key": {
+		"I": { "item": "minecraft:diamond_block" }
+	},
+	"result": {
+		"item": "dotbv:diamond_block_slab",
+		"count": 6
+	}
+}

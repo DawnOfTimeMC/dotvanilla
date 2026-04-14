@@ -1,0 +1,7 @@
+{
+	"parent": "dotbv:block/small_plate",
+	"textures": {
+		"side": "minecraft:block/cracked_nether_bricks",
+		"frieze": "minecraft:block/cracked_nether_bricks"
+	}
+}

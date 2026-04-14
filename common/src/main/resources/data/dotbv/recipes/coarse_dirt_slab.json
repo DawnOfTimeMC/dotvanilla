@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": ["III"],
+	"key": {
+		"I": { "item": "minecraft:coarse_dirt" }
+	},
+	"result": {
+		"item": "dotbv:coarse_dirt_slab",
+		"count": 6
+	}
+}

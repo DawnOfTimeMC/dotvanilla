@@ -1,0 +1,7 @@
+{
+	"parent": "dotbv:block/small_plate",
+	"textures": {
+		"side": "minecraft:block/cyan_concrete",
+		"frieze": "minecraft:block/cyan_concrete"
+	}
+}

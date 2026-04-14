@@ -1,0 +1,7 @@
+{
+	"parent": "dotbv:block/plate_outer",
+	"textures": {
+		"top": "minecraft:block/cut_copper",
+		"frieze": "minecraft:block/cut_copper"
+	}
+}

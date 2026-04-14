@@ -1,0 +1,6 @@
+{
+	"type":"minecraft:crafting_shaped",
+	"pattern":["I","I","I"],
+	"key":{"I":{"item":"minecraft:black_terracotta"}},
+	"result":{"item":"dotbv:black_terracotta_plate","count":6}
+}

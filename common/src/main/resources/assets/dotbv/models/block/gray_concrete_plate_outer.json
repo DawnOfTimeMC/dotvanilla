@@ -1,0 +1,8 @@
+{
+	"parent": "dotbv:block/plate_outer",
+	"textures": {
+		"side": "minecraft:block/gray_concrete",
+		"top": "minecraft:block/gray_concrete",
+		"frieze": "minecraft:block/gray_concrete"
+	}
+}

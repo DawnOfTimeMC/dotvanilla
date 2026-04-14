@@ -1,0 +1,6 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": ["I","I","I"],
+	"key": { "I": { "item": "minecraft:packed_mud" } },
+	"result": { "item": "dotbv:packed_mud_plate", "count": 6 }
+}

@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"type=bottom": {
+			"model": "dotbv:block/pink_concrete_slab_bottom"
+		},
+		"type=double": {
+			"model": "minecraft:block/pink_concrete"
+		},
+		"type=top": {
+			"model": "dotbv:block/pink_concrete_slab_top"
+		}
+	}
+}

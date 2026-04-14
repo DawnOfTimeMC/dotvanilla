@@ -1,0 +1,6 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": ["IHI"],
+	"key": { "I": { "item": "dotbv:waxed_oxidized_copper_slab" }, "H": { "item": "minecraft:honeycomb" } },
+	"result": { "item": "dotbv:waxed_oxidized_copper_edge", "count": 6 }
+}

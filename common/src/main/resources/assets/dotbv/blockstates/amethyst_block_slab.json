@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "dotbv:block/amethyst_block_slab_bottom" },
+        "type=top":    { "model": "dotbv:block/amethyst_block_slab_top" },
+        "type=double": { "model": "minecraft:block/amethyst_block" }
+    }
+}

@@ -1,0 +1,6 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": ["II"],
+	"key": { "I": { "item": "minecraft:polished_diorite_slab" } },
+	"result": { "item": "dotbv:polished_diorite_edge", "count": 6 }
+}

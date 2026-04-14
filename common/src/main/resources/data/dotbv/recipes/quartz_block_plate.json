@@ -1,0 +1,6 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": ["I","I","I"],
+	"key": { "I": { "item": "minecraft:quartz_block" } },
+	"result": { "item": "dotbv:quartz_block_plate", "count": 6 }
+}

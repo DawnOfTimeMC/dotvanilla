@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"III"
+	],
+	"key": {
+		"I": { "item": "minecraft:tuff" }
+	},
+	"result": {
+		"item": "dotbv:tuff_slab",
+		"count": 6
+	}
+}

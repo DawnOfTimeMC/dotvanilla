@@ -1,0 +1,6 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": ["IH","I ","I "],
+	"key": { "I": { "item": "minecraft:waxed_cut_copper" }, "H": { "item": "minecraft:honeycomb" } },
+	"result": { "item": "dotbv:waxed_cut_copper_plate", "count": 6 }
+}

@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "dotbv:block/deepslate_slab_bottom" },
+        "type=top":    { "model": "dotbv:block/deepslate_slab_top" },
+        "type=double": { "model": "minecraft:block/deepslate" }
+    }
+}

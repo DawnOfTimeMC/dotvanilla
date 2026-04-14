@@ -1,0 +1,6 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": ["I","I","I"],
+	"key": { "I": { "item": "minecraft:blue_ice" } },
+	"result": { "item": "dotbv:blue_ice_plate", "count": 6 }
+}

@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": {"model":"dotbv:block/black_terracotta_slab_bottom"},
+        "type=top":    {"model":"dotbv:block/black_terracotta_slab_top"},
+        "type=double": {"model":"minecraft:block/black_terracotta"}
+    }
+}

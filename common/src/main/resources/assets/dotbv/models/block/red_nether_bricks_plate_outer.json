@@ -1,0 +1,7 @@
+{
+	"parent": "dotbv:block/plate_outer",
+	"textures": {
+		"top": "minecraft:block/red_nether_bricks",
+		"frieze": "minecraft:block/red_nether_bricks"
+	}
+}

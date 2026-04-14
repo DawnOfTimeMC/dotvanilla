@@ -1,0 +1,7 @@
+{
+	"parent": "dotbv:block/small_plate",
+	"textures": {
+		"side": "block/mangrove_planks",
+		"frieze": "block/mangrove_planks"
+	}
+}

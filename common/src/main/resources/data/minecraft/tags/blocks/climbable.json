@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "dotbv:acacia_lattice",
+    "dotbv:birch_lattice",
+    "dotbv:cherry_lattice",
+    "dotbv:crimson_lattice",
+    "dotbv:dark_oak_lattice",
+    "dotbv:jungle_lattice",
+    "dotbv:mangrove_lattice",
+    "dotbv:oak_lattice",
+    "dotbv:spruce_lattice",
+    "dotbv:warped_lattice"
+  ]
+}

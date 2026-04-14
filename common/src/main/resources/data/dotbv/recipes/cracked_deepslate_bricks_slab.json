@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"III"
+	],
+	"key": {
+		"I": { "item": "minecraft:cracked_deepslate_bricks" }
+	},
+	"result": {
+		"item": "dotbv:cracked_deepslate_bricks_slab",
+		"count": 6
+	}
+}

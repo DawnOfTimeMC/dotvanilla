@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"I",
+		"I",
+		"I"
+	],
+	"key": {
+		"I": {
+			"item": "minecraft:orange_concrete"
+		}
+	},
+	"result": {
+		"item": "dotbv:orange_concrete_plate",
+		"count": 6
+	}
+}

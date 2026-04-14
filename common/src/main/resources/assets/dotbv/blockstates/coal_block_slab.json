@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "dotbv:block/coal_block_slab_bottom" },
+        "type=top":    { "model": "dotbv:block/coal_block_slab_top" },
+        "type=double": { "model": "minecraft:block/coal_block" }
+    }
+}

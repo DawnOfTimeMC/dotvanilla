@@ -1,0 +1,7 @@
+{
+	"parent": "dotbv:block/plate_outer",
+	"textures": {
+		"top": "minecraft:block/diamond_block",
+		"frieze": "minecraft:block/diamond_block"
+	}
+}

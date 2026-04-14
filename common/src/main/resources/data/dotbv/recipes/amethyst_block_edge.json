@@ -1,0 +1,6 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": ["II"],
+	"key": { "I": { "item": "dotbv:amethyst_block_slab" } },
+	"result": { "item": "dotbv:amethyst_block_edge", "count": 6 }
+}

@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": {"model":"dotbv:block/podzol_slab_bottom"},
+        "type=double": {"model":"minecraft:block/podzol"},
+        "type=top":    {"model":"dotbv:block/podzol_slab_top"}
+    }
+}

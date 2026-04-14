@@ -1,0 +1,75 @@
+plugins {
+    id 'multiloader-loader'
+    id 'net.neoforged.moddev.legacyforge'
+    id 'me.modmuss50.mod-publish-plugin'
+}
+
+mixin {
+    add(sourceSets.main, "${mod_id}.refmap.json")
+
+    config("${mod_id}.mixins.json")
+}
+
+legacyForge {
+    version = "${minecraft_version}-${forge_version}"
+
+    validateAccessTransformers = true
+
+    def at = project(':common').file('src/main/resources/META-INF/accesstransformer.cfg')
+    if (at.exists()) {
+        accessTransformers = ["src/main/resources/META-INF/accesstransformer.cfg"]
+    }
+    parchment {
+        minecraftVersion = parchment_minecraft
+        mappingsVersion = parchment_version
+    }
+    runs {
+        client {
+            client()
+        }
+        data {
+            data()
+            programArguments.addAll '--mod', project.mod_id, '--all', '--output', file('src/generated/resources/').getAbsolutePath(), '--existing', file('src/main/resources/').getAbsolutePath()
+        }
+        server {
+            server()
+        }
+    }
+
+    mods {
+        "${mod_id}" {
+            sourceSet sourceSets.main
+        }
+    }
+}
+
+sourceSets.main.resources.srcDir 'src/generated/resources'
+
+repositories {
+    maven {
+        url = "https://cursemaven.com"
+    }
+}
+
+dependencies {
+    compileOnly project(":common")
+
+    modRuntimeOnly "curse.maven:jei-238222:7391695"
+
+    annotationProcessor("org.spongepowered:mixin:0.8.5-SNAPSHOT:processor")
+    implementation 'org.jetbrains:annotations:26.0.2'
+}
+
+jar {
+    finalizedBy('reobfJar')
+    manifest.attributes([
+            "MixinConfigs": "${mod_id}.mixins.json"
+    ])
+}
+
+publishMods {
+    // Point to the pre-built reobfuscated JAR. Build first in IntelliJ (forge > tasks > build > build),
+    // then run publishMods. This avoids the reobfJar ordering bug where publishMods uploads a broken JAR.
+    file = layout.buildDirectory.file("libs/dotbv-forge-${minecraft_version}-${project.version}.jar")
+    modLoaders.add("forge")
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "dotbv:block/plate_outer",
+    "textures": {
+        "top": "minecraft:block/green_terracotta",
+        "frieze": "minecraft:block/green_terracotta"
+    }
+}

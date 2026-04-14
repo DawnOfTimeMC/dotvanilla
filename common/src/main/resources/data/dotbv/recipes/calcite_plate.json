@@ -1,0 +1,6 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": ["I","I","I"],
+	"key": { "I": { "item": "minecraft:calcite" } },
+	"result": { "item": "dotbv:calcite_plate", "count": 6 }
+}

@@ -1,0 +1,6 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": ["II"],
+	"key": { "I": { "item": "dotbv:packed_mud_slab" } },
+	"result": { "item": "dotbv:packed_mud_edge", "count": 6 }
+}

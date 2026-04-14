@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"III"
+	],
+	"key": {
+		"I": { "item": "minecraft:deepslate" }
+	},
+	"result": {
+		"item": "dotbv:deepslate_slab",
+		"count": 6
+	}
+}

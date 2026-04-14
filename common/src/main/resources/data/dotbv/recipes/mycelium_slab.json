@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": ["III"],
+	"key": {
+		"I": { "item": "minecraft:mycelium" }
+	},
+	"result": {
+		"item": "dotbv:mycelium_slab",
+		"count": 6
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"III"
+	],
+	"key": {
+		"I": { "item": "minecraft:cracked_nether_bricks" }
+	},
+	"result": {
+		"item": "dotbv:cracked_nether_bricks_slab",
+		"count": 6
+	}
+}

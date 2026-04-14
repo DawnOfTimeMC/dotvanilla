@@ -1,0 +1,6 @@
+{
+	"type":"minecraft:crafting_shaped",
+	"pattern":["II"],
+	"key":{"I":{"item":"dotbv:pink_terracotta_slab"}},
+	"result":{"item":"dotbv:pink_terracotta_edge","count":6}
+}

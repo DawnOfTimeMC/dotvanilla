@@ -1,0 +1,7 @@
+{
+    "parent": "dotbv:block/plate_outer",
+    "textures": {
+        "top": "minecraft:block/quartz_block_top",
+        "frieze": "minecraft:block/quartz_block_side"
+    }
+}

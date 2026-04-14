@@ -1,0 +1,6 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": ["I","I","I"],
+	"key": { "I": { "item": "minecraft:polished_granite" } },
+	"result": { "item": "dotbv:polished_granite_plate", "count": 6 }
+}

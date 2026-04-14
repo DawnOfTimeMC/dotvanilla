@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"III"
+	],
+	"key": {
+		"I": { "item": "minecraft:lapis_block" }
+	},
+	"result": {
+		"item": "dotbv:lapis_block_slab",
+		"count": 6
+	}
+}

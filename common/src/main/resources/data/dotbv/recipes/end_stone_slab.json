@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"III"
+	],
+	"key": { "I": { "item": "minecraft:end_stone" } },
+	"result": { "item": "dotbv:end_stone_slab", "count": 6 }
+}

@@ -1,0 +1,6 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": ["I","I","I"],
+	"key": { "I": { "item": "minecraft:iron_block" } },
+	"result": { "item": "dotbv:iron_block_plate", "count": 6 }
+}

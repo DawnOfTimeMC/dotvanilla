@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": ["III"],
+	"key": {
+		"I": { "item": "minecraft:red_sand" }
+	},
+	"result": {
+		"item": "dotbv:red_sand_slab",
+		"count": 6
+	}
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "dotbv:block/small_plate_outer",
+    "textures": {
+        "top": "minecraft:block/light_blue_terracotta",
+        "frieze": "minecraft:block/light_blue_terracotta"
+    }
+}

@@ -1,0 +1,6 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": ["II"],
+	"key": { "I": { "item": "minecraft:andesite_slab" } },
+	"result": { "item": "dotbv:andesite_edge", "count": 6 }
+}

@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"III"
+	],
+	"key": {
+		"I": { "item": "minecraft:packed_mud" }
+	},
+	"result": {
+		"item": "dotbv:packed_mud_slab",
+		"count": 6
+	}
+}

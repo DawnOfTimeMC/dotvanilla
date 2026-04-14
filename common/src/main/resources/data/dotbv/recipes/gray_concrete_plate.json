@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"I",
+		"I",
+		"I"
+	],
+	"key": {
+		"I": {
+			"item": "minecraft:gray_concrete"
+		}
+	},
+	"result": {
+		"item": "dotbv:gray_concrete_plate",
+		"count": 6
+	}
+}

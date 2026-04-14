@@ -1,0 +1,6 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": ["I","I","I"],
+	"key": { "I": { "item": "minecraft:deepslate_tiles" } },
+	"result": { "item": "dotbv:deepslate_tiles_plate", "count": 6 }
+}

@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": ["I  ","IH ","III"],
+	"key": {
+		"I": { "item": "minecraft:waxed_weathered_copper" },
+		"H": { "item": "minecraft:honeycomb" }
+	},
+	"result": {
+		"item": "dotbv:waxed_weathered_copper_stairs",
+		"count": 6
+	}
+}

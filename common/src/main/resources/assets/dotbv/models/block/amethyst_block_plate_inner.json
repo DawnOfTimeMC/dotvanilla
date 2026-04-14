@@ -1,0 +1,8 @@
+{
+    "parent": "dotbv:block/plate_inner",
+    "textures": {
+        "side": "minecraft:block/amethyst_block",
+        "top": "minecraft:block/amethyst_block",
+        "frieze": "minecraft:block/amethyst_block"
+    }
+}

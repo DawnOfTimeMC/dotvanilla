@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"III"
+	],
+	"key": { "I": { "item": "minecraft:warped_nylium" } },
+	"result": { "item": "dotbv:warped_nylium_slab", "count": 6 }
+}

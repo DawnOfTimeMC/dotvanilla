@@ -1,0 +1,8 @@
+{
+	"parent": "dotbv:block/plate",
+	"textures": {
+		"side": "minecraft:block/dark_prismarine",
+		"top": "minecraft:block/dark_prismarine",
+		"frieze": "minecraft:block/dark_prismarine"
+	}
+}

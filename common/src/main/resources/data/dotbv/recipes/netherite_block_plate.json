@@ -1,0 +1,6 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": ["I","I","I"],
+	"key": { "I": { "item": "minecraft:netherite_block" } },
+	"result": { "item": "dotbv:netherite_block_plate", "count": 6 }
+}

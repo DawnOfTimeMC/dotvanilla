@@ -1,0 +1,6 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": ["II"],
+	"key": { "I": { "item": "minecraft:cut_red_sandstone_slab" } },
+	"result": { "item": "dotbv:cut_red_sandstone_edge", "count": 6 }
+}

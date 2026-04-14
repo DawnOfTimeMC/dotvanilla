@@ -1,0 +1,6 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":["III"],
+    "key":{"I":{"item":"minecraft:podzol"}},
+    "result":{"item":"dotbv:podzol_slab","count":6}
+}

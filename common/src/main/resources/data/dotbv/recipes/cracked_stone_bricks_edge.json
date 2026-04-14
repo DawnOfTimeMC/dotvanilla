@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"II"
+	],
+	"key": {
+		"I": { "item": "dotbv:cracked_stone_bricks_slab" }
+	},
+	"result": {
+		"item": "dotbv:cracked_stone_bricks_edge",
+		"count": 6
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "dotbv:block/plate_outer",
+	"textures": {
+		"top": "block/spruce_planks",
+		"frieze": "block/spruce_planks"
+	}
+}

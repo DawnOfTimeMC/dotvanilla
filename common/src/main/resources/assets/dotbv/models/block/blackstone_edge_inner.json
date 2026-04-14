@@ -1,0 +1,8 @@
+{
+    "parent": "dotbv:block/small_plate_inner",
+    "textures": {
+        "side": "minecraft:block/blackstone",
+        "top": "minecraft:block/blackstone",
+        "frieze": "minecraft:block/blackstone"
+    }
+}

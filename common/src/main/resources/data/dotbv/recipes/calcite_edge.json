@@ -1,0 +1,6 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": ["II"],
+	"key": { "I": { "item": "dotbv:calcite_slab" } },
+	"result": { "item": "dotbv:calcite_edge", "count": 6 }
+}

@@ -1,0 +1,19 @@
+{
+    "values": [
+        "dotbv:gravel_slab",
+        "dotbv:sand_slab",
+        "dotbv:grass_block_slab",
+        "dotbv:mycelium_slab",
+        "dotbv:dirt_path_slab",
+        "dotbv:dirt_slab",
+        "dotbv:coarse_dirt_slab",
+        "dotbv:rooted_dirt_slab",
+        "dotbv:mud_slab",
+        "dotbv:clay_slab",
+        "dotbv:red_sand_slab",
+        "dotbv:moss_block_slab",
+        "dotbv:podzol_slab",
+        "dotbv:soul_sand_slab",
+        "dotbv:soul_soil_slab"
+    ]
+}

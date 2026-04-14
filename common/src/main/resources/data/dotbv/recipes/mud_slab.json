@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": ["III"],
+	"key": {
+		"I": { "item": "minecraft:mud" }
+	},
+	"result": {
+		"item": "dotbv:mud_slab",
+		"count": 6
+	}
+}

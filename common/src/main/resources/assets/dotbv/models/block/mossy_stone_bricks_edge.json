@@ -1,0 +1,7 @@
+{
+    "parent": "dotbv:block/small_plate",
+    "textures": {
+        "side": "minecraft:block/mossy_stone_bricks",
+        "frieze": "minecraft:block/mossy_stone_bricks"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "dotbv:block/gold_block_slab_bottom" },
+        "type=top":    { "model": "dotbv:block/gold_block_slab_top" },
+        "type=double": { "model": "minecraft:block/gold_block" }
+    }
+}

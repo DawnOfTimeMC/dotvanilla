@@ -1,0 +1,6 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": ["I","I","I"],
+	"key": { "I": { "item": "minecraft:smooth_basalt" } },
+	"result": { "item": "dotbv:smooth_basalt_plate", "count": 6 }
+}

@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "dotbv:block/tuff_slab_bottom" },
+        "type=top":    { "model": "dotbv:block/tuff_slab_top" },
+        "type=double": { "model": "minecraft:block/tuff" }
+    }
+}

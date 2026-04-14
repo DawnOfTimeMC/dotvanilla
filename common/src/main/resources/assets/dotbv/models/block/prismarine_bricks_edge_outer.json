@@ -1,0 +1,7 @@
+{
+	"parent": "dotbv:block/small_plate_outer",
+	"textures": {
+		"top": "minecraft:block/prismarine_bricks",
+		"frieze": "minecraft:block/prismarine_bricks"
+	}
+}

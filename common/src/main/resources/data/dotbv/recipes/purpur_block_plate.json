@@ -1,0 +1,6 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": ["I","I","I"],
+	"key": { "I": { "item": "minecraft:purpur_block" } },
+	"result": { "item": "dotbv:purpur_block_plate", "count": 6 }
+}

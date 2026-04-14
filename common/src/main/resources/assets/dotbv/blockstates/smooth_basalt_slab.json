@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "dotbv:block/smooth_basalt_slab_bottom" },
+        "type=top":    { "model": "dotbv:block/smooth_basalt_slab_top" },
+        "type=double": { "model": "minecraft:block/smooth_basalt" }
+    }
+}

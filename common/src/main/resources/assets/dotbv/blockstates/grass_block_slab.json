@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "dotbv:block/grass_block_slab_bottom" },
+        "type=top":    { "model": "dotbv:block/grass_block_slab_top" },
+        "type=double": { "model": "dotbv:block/grass_block_slab_double" }
+    }
+}

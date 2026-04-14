@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"type=bottom": {
+			"model": "dotbv:block/light_gray_concrete_slab_bottom"
+		},
+		"type=double": {
+			"model": "minecraft:block/light_gray_concrete"
+		},
+		"type=top": {
+			"model": "dotbv:block/light_gray_concrete_slab_top"
+		}
+	}
+}

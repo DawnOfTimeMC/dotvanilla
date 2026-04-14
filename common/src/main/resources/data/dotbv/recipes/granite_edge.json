@@ -1,0 +1,6 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": ["II"],
+	"key": { "I": { "item": "minecraft:granite_slab" } },
+	"result": { "item": "dotbv:granite_edge", "count": 6 }
+}

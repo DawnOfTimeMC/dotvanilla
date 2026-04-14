@@ -1,0 +1,7 @@
+{
+    "parent": "dotbv:block/plate_outer",
+    "textures": {
+        "top": "minecraft:block/purpur_block",
+        "frieze": "minecraft:block/purpur_block"
+    }
+}
